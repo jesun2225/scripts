@@ -1,7 +1,7 @@
 getgenv().Config = {
-    Team = "Marnies", -- Pirates
+    Team = "Pirates", -- Pirates
     Settings = {
-        ToolFarm = "Fruit", -- Melee
+        ToolFarm = "Melee", -- Melee
         HopDelay = 22
     }
 }
