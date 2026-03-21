@@ -1,8 +1,8 @@
 getgenv().Config = {
-    Team = "Pirates", -- Pirates
+    Team = "Pirates", -- uh not work now
     Settings = {
-        ToolFarm = "Melee", -- Melee
-        HopDelay = 22
+        ToolFarm = "Melee",
+        HopDelay = 2
     }
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WhiteX1208/Scripts/refs/heads/main/PullLever.luau"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/638cb8130072d62781731a34792acec1.lua"))()
