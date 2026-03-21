@@ -10,10 +10,10 @@ print("✅ Delay complete! Loading config & script NOW...")
 
 getgenv().Config = {
     Team = "Pirates",
-    HideUI = true,
+    HideUI = false,
     HuntConfig = {
         ["Earned Notification Enabled"] = false,
-        ["Reset Farm (New)"] = true,
+        ["Reset Farm (New)"] = false,
         ["Chat"] = false,
         ["Farm Delay"] = 0.22, -- 0.15 - Super Fast(Risk - Kick) | 0.22 Fast | 0.35 Medium | Max 0.5
         ["Webhook"] = {
