@@ -1,5 +1,5 @@
 getgenv().Config = {
-    Team = "Pirates", -- uh not work now
+    Team = "Marnies", -- Pirates
     Settings = {
         ToolFarm = "Fruit", -- Melee
         HopDelay = 2
