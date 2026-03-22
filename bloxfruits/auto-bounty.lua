@@ -9,7 +9,7 @@ end
 print("✅ Delay complete! Loading config & script NOW...")
 
 getgenv().Config = {
-    Team = "Marines",
+    Team = "Pirates",
     HideUI = false,
     HuntConfig = {
         ["Earned Notification Enabled"] = false,
