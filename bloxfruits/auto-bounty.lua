@@ -18,7 +18,7 @@ getgenv().Config = {
         ["Farm Delay"] = 0.22, -- 0.15 - Super Fast(Risk - Kick) | 0.22 Fast | 0.35 Medium | Max 0.5
         ["Webhook"] = {
             Enabled = true,
-            Url = "https://discord.com/api/webhooks/1483703956017512519/AiCEE2cTisDvnxoJnWIsGQZuWu-B_9uN7cPBHvOUnYdsc9iOVebrtFqcIaMNSoBcuWYY"
+            Url = "https://discord.com/api/webhooks/1499296441020186674/3K6xVj6oGVk43qCq_tX9jsBrs3zc4hTc55a6y3KZcyv0eQrHjPvQam7iHU9qvY7fXyHj"
         }
     }
 }
